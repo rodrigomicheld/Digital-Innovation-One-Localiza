@@ -1,0 +1,13 @@
+C:\Users\rodrigo.meneses\Digital_Innovation\Bank\obj\Debug\netcoreapp3.1\Bank.csprojAssemblyReference.cache
+C:\Users\rodrigo.meneses\Digital_Innovation\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfoInputs.cache
+C:\Users\rodrigo.meneses\Digital_Innovation\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfo.cs
+C:\Users\rodrigo.meneses\Digital_Innovation\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.meneses\Digital_Innovation\Bank\bin\Debug\netcoreapp3.1\Bank.exe
+C:\Users\rodrigo.meneses\Digital_Innovation\Bank\bin\Debug\netcoreapp3.1\Bank.deps.json
+C:\Users\rodrigo.meneses\Digital_Innovation\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.json
+C:\Users\rodrigo.meneses\Digital_Innovation\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.dev.json
+C:\Users\rodrigo.meneses\Digital_Innovation\Bank\bin\Debug\netcoreapp3.1\Bank.dll
+C:\Users\rodrigo.meneses\Digital_Innovation\Bank\bin\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\rodrigo.meneses\Digital_Innovation\Bank\obj\Debug\netcoreapp3.1\Bank.dll
+C:\Users\rodrigo.meneses\Digital_Innovation\Bank\obj\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\rodrigo.meneses\Digital_Innovation\Bank\obj\Debug\netcoreapp3.1\Bank.genruntimeconfig.cache
