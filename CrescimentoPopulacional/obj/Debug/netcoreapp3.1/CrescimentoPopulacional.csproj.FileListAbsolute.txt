@@ -1,0 +1,13 @@
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\CrescimentoPopulacional\bin\Debug\netcoreapp3.1\CrescimentoPopulacional.exe
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\CrescimentoPopulacional\bin\Debug\netcoreapp3.1\CrescimentoPopulacional.deps.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\CrescimentoPopulacional\bin\Debug\netcoreapp3.1\CrescimentoPopulacional.runtimeconfig.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\CrescimentoPopulacional\bin\Debug\netcoreapp3.1\CrescimentoPopulacional.runtimeconfig.dev.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\CrescimentoPopulacional\bin\Debug\netcoreapp3.1\CrescimentoPopulacional.dll
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\CrescimentoPopulacional\bin\Debug\netcoreapp3.1\CrescimentoPopulacional.pdb
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\CrescimentoPopulacional\obj\Debug\netcoreapp3.1\CrescimentoPopulacional.csprojAssemblyReference.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\CrescimentoPopulacional\obj\Debug\netcoreapp3.1\CrescimentoPopulacional.AssemblyInfoInputs.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\CrescimentoPopulacional\obj\Debug\netcoreapp3.1\CrescimentoPopulacional.AssemblyInfo.cs
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\CrescimentoPopulacional\obj\Debug\netcoreapp3.1\CrescimentoPopulacional.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\CrescimentoPopulacional\obj\Debug\netcoreapp3.1\CrescimentoPopulacional.dll
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\CrescimentoPopulacional\obj\Debug\netcoreapp3.1\CrescimentoPopulacional.pdb
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\CrescimentoPopulacional\obj\Debug\netcoreapp3.1\CrescimentoPopulacional.genruntimeconfig.cache
