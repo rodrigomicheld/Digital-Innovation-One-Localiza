@@ -1,0 +1,13 @@
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\PapelTesoura\bin\Debug\netcoreapp3.1\PapelTesoura.exe
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\PapelTesoura\bin\Debug\netcoreapp3.1\PapelTesoura.deps.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\PapelTesoura\bin\Debug\netcoreapp3.1\PapelTesoura.runtimeconfig.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\PapelTesoura\bin\Debug\netcoreapp3.1\PapelTesoura.runtimeconfig.dev.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\PapelTesoura\bin\Debug\netcoreapp3.1\PapelTesoura.dll
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\PapelTesoura\bin\Debug\netcoreapp3.1\PapelTesoura.pdb
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\PapelTesoura\obj\Debug\netcoreapp3.1\PapelTesoura.csprojAssemblyReference.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\PapelTesoura\obj\Debug\netcoreapp3.1\PapelTesoura.AssemblyInfoInputs.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\PapelTesoura\obj\Debug\netcoreapp3.1\PapelTesoura.AssemblyInfo.cs
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\PapelTesoura\obj\Debug\netcoreapp3.1\PapelTesoura.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\PapelTesoura\obj\Debug\netcoreapp3.1\PapelTesoura.dll
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\PapelTesoura\obj\Debug\netcoreapp3.1\PapelTesoura.pdb
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\PapelTesoura\obj\Debug\netcoreapp3.1\PapelTesoura.genruntimeconfig.cache
