@@ -1,0 +1,13 @@
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\TempoEvento\obj\Debug\netcoreapp3.1\TempoEvento.csprojAssemblyReference.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\TempoEvento\obj\Debug\netcoreapp3.1\TempoEvento.AssemblyInfoInputs.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\TempoEvento\obj\Debug\netcoreapp3.1\TempoEvento.AssemblyInfo.cs
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\TempoEvento\obj\Debug\netcoreapp3.1\TempoEvento.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\TempoEvento\bin\Debug\netcoreapp3.1\TempoEvento.exe
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\TempoEvento\bin\Debug\netcoreapp3.1\TempoEvento.deps.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\TempoEvento\bin\Debug\netcoreapp3.1\TempoEvento.runtimeconfig.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\TempoEvento\bin\Debug\netcoreapp3.1\TempoEvento.runtimeconfig.dev.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\TempoEvento\bin\Debug\netcoreapp3.1\TempoEvento.dll
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\TempoEvento\bin\Debug\netcoreapp3.1\TempoEvento.pdb
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\TempoEvento\obj\Debug\netcoreapp3.1\TempoEvento.dll
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\TempoEvento\obj\Debug\netcoreapp3.1\TempoEvento.pdb
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\TempoEvento\obj\Debug\netcoreapp3.1\TempoEvento.genruntimeconfig.cache
