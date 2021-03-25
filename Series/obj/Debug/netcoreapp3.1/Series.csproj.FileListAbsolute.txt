@@ -1,0 +1,13 @@
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Series\obj\Debug\netcoreapp3.1\Series.csprojAssemblyReference.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfoInputs.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfo.cs
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Series\obj\Debug\netcoreapp3.1\Series.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Series\bin\Debug\netcoreapp3.1\Series.exe
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Series\bin\Debug\netcoreapp3.1\Series.deps.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.dev.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Series\bin\Debug\netcoreapp3.1\Series.dll
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Series\bin\Debug\netcoreapp3.1\Series.pdb
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Series\obj\Debug\netcoreapp3.1\Series.dll
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Series\obj\Debug\netcoreapp3.1\Series.pdb
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Series\obj\Debug\netcoreapp3.1\Series.genruntimeconfig.cache
