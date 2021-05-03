@@ -1,0 +1,16 @@
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\ComprasMercado\bin\Debug\net5.0\ComprasMercado.exe
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\ComprasMercado\bin\Debug\net5.0\ComprasMercado.deps.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\ComprasMercado\bin\Debug\net5.0\ComprasMercado.runtimeconfig.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\ComprasMercado\bin\Debug\net5.0\ComprasMercado.runtimeconfig.dev.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\ComprasMercado\bin\Debug\net5.0\ComprasMercado.dll
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\ComprasMercado\bin\Debug\net5.0\ref\ComprasMercado.dll
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\ComprasMercado\bin\Debug\net5.0\ComprasMercado.pdb
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\ComprasMercado\obj\Debug\net5.0\ComprasMercado.csprojAssemblyReference.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\ComprasMercado\obj\Debug\net5.0\ComprasMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\ComprasMercado\obj\Debug\net5.0\ComprasMercado.AssemblyInfoInputs.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\ComprasMercado\obj\Debug\net5.0\ComprasMercado.AssemblyInfo.cs
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\ComprasMercado\obj\Debug\net5.0\ComprasMercado.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\ComprasMercado\obj\Debug\net5.0\ComprasMercado.dll
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\ComprasMercado\obj\Debug\net5.0\ref\ComprasMercado.dll
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\ComprasMercado\obj\Debug\net5.0\ComprasMercado.pdb
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\ComprasMercado\obj\Debug\net5.0\ComprasMercado.genruntimeconfig.cache

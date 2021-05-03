@@ -1,0 +1,16 @@
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Quadrante\bin\Debug\net5.0\Quadrante.exe
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Quadrante\bin\Debug\net5.0\Quadrante.deps.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Quadrante\bin\Debug\net5.0\Quadrante.runtimeconfig.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Quadrante\bin\Debug\net5.0\Quadrante.runtimeconfig.dev.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Quadrante\bin\Debug\net5.0\Quadrante.dll
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Quadrante\bin\Debug\net5.0\ref\Quadrante.dll
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Quadrante\bin\Debug\net5.0\Quadrante.pdb
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Quadrante\obj\Debug\net5.0\Quadrante.csprojAssemblyReference.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Quadrante\obj\Debug\net5.0\Quadrante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Quadrante\obj\Debug\net5.0\Quadrante.AssemblyInfoInputs.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Quadrante\obj\Debug\net5.0\Quadrante.AssemblyInfo.cs
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Quadrante\obj\Debug\net5.0\Quadrante.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Quadrante\obj\Debug\net5.0\Quadrante.dll
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Quadrante\obj\Debug\net5.0\ref\Quadrante.dll
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Quadrante\obj\Debug\net5.0\Quadrante.pdb
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\Quadrante\obj\Debug\net5.0\Quadrante.genruntimeconfig.cache
