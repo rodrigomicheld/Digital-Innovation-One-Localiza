@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>curso.api</name>
+    </assembly>
+    <members>
+        <member name="M:curso.api.Controllers.CursosController.Post(curso.api.Models.ViewModels.CursoViewModel)">
+            <summary>
+            Este Serviço permite autenticar um usuário cadastrado e ativo. 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:curso.api.Controllers.CursosController.Get">
+            <summary>
+            Este Serviço permite autenticar um usuário cadastrado e ativo. 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:curso.api.Controllers.UsersController.Logar(curso.api.Models.ViewModels.LoginViewModel)">
+            <summary>
+            Este Serviço permite autenticar um usuário cadastrado e ativo. 
+            </summary>
+            <param name="loginViewModel">View model do login</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
