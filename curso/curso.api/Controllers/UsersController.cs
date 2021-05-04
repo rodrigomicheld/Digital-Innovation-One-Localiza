@@ -8,6 +8,7 @@ using Microsoft.IdentityModel.Tokens;
 using Swashbuckle.AspNetCore.Annotations;
 using System;
 using System.IdentityModel.Tokens.Jwt;
+using System.Linq;
 using System.Security.Claims;
 using System.Text;
 
@@ -61,17 +62,30 @@ namespace curso.api.Controllers
                 Usuario = userViewModel
             } );
         }
-
+        /// <summary>
+        /// Este Serviço permite cadastrar um usuario. 
+        /// </summary>
+        /// <param name="resgistrarViewModel">View model do login</param>
+        /// <returns></returns>
+        [SwaggerResponse(statusCode: 200, description: "Sucesso ao autenticar", Type = typeof(LoginViewModel))]
+        [SwaggerResponse(statusCode: 400, description: "Campos Obrigatórios", Type = typeof(ValidarCampoViewModel))]
+        [SwaggerResponse(statusCode: 500, description: "Erro interno", Type = typeof(ErrorViewModel))]
         [HttpPost]
         [Route("registrar")]
         [ValidarModelState]
         public IActionResult Registrar(ResgistrarViewModel resgistrarViewModel)
         {
-            string mySqlConnection = "server=localhost;userid=dev;password=1234567;database=cursoDb";
-            var optionsBuilder = new DbContextOptionsBuilder<CursoDbContext>();
-            optionsBuilder.UseMySql(mySqlConnection, ServerVersion.AutoDetect(mySqlConnection));
             
+            var optionsBuilder = new DbContextOptionsBuilder<CursoDbContext>();
+            optionsBuilder.UseSqlServer("Server = localhost; Database = CursoApi; Integrated Security = True;");
             CursoDbContext context = new CursoDbContext(optionsBuilder.Options);
+
+            var migrationPending = context.Database.GetPendingMigrations(); //recebe as migrations pendentes
+
+            if (migrationPending.Count() > 0)
+            {
+                context.Database.Migrate();
+            }
 
             var usuario = new User();
             usuario.Login = resgistrarViewModel.Login;

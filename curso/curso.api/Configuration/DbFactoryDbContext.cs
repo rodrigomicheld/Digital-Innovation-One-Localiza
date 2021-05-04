@@ -8,9 +8,9 @@ namespace curso.api.Configuration
     {
         public CursoDbContext CreateDbContext(string[] args)
         {
-            string mySqlConnection = "server=localhost;userid=dev;password=1234567;database=cursoDb";
+            
             var optionsBuilder = new DbContextOptionsBuilder<CursoDbContext>();
-            optionsBuilder.UseMySql(mySqlConnection, ServerVersion.AutoDetect(mySqlConnection));
+            optionsBuilder.UseSqlServer("Server = localhost; Database = CursoApi; Integrated Security = True;");
 
             CursoDbContext context = new CursoDbContext(optionsBuilder.Options);
 
