@@ -1,8 +1,4 @@
-﻿
-
-using System.ComponentModel.DataAnnotations;
-
-namespace curso.api.Models.ViewModels
+﻿namespace curso.api.Models.ViewModels
 {
     public class UserViewModel
     {

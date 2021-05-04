@@ -1,16 +1,15 @@
-﻿using curso.api.Filters;
+﻿using curso.api.Domain.Entities;
+using curso.api.Filters;
+using curso.api.Infraestrutura.Data;
 using curso.api.Models.ViewModels;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Swashbuckle.AspNetCore.Annotations;
 using System;
-using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
-using System.Linq;
 using System.Security.Claims;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace curso.api.Controllers
 {
@@ -68,6 +67,20 @@ namespace curso.api.Controllers
         [ValidarModelState]
         public IActionResult Registrar(ResgistrarViewModel resgistrarViewModel)
         {
+            string mySqlConnection = "server=localhost;userid=dev;password=1234567;database=cursoDb";
+            var optionsBuilder = new DbContextOptionsBuilder<CursoDbContext>();
+            optionsBuilder.UseMySql(mySqlConnection, ServerVersion.AutoDetect(mySqlConnection));
+            
+            CursoDbContext context = new CursoDbContext(optionsBuilder.Options);
+
+            var usuario = new User();
+            usuario.Login = resgistrarViewModel.Login;
+            usuario.Email = resgistrarViewModel.Email;
+            usuario.Password = resgistrarViewModel.Passoword;
+
+            context.User.Add(usuario);
+            context.SaveChanges();
+
             return Created("", resgistrarViewModel);
         }
     }
