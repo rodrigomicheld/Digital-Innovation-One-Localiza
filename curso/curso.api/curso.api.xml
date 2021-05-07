@@ -23,5 +23,12 @@
             <param name="loginViewModel">View model do login</param>
             <returns></returns>
         </member>
+        <member name="M:curso.api.Controllers.UsersController.Registrar(curso.api.Models.ViewModels.ResgistrarViewModel)">
+            <summary>
+            Este Serviço permite cadastrar um usuario. 
+            </summary>
+            <param name="resgistrarViewModel">View model do login</param>
+            <returns></returns>
+        </member>
     </members>
 </doc>
