@@ -1,0 +1,16 @@
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\NotasEmoedas\bin\Debug\net5.0\NotasEmoedas.exe
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\NotasEmoedas\bin\Debug\net5.0\NotasEmoedas.deps.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\NotasEmoedas\bin\Debug\net5.0\NotasEmoedas.runtimeconfig.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\NotasEmoedas\bin\Debug\net5.0\NotasEmoedas.runtimeconfig.dev.json
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\NotasEmoedas\bin\Debug\net5.0\NotasEmoedas.dll
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\NotasEmoedas\bin\Debug\net5.0\ref\NotasEmoedas.dll
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\NotasEmoedas\bin\Debug\net5.0\NotasEmoedas.pdb
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\NotasEmoedas\obj\Debug\net5.0\NotasEmoedas.csprojAssemblyReference.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\NotasEmoedas\obj\Debug\net5.0\NotasEmoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\NotasEmoedas\obj\Debug\net5.0\NotasEmoedas.AssemblyInfoInputs.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\NotasEmoedas\obj\Debug\net5.0\NotasEmoedas.AssemblyInfo.cs
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\NotasEmoedas\obj\Debug\net5.0\NotasEmoedas.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\NotasEmoedas\obj\Debug\net5.0\NotasEmoedas.dll
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\NotasEmoedas\obj\Debug\net5.0\ref\NotasEmoedas.dll
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\NotasEmoedas\obj\Debug\net5.0\NotasEmoedas.pdb
+C:\Users\rodrigo.meneses\Bootcamps\Localiza\NotasEmoedas\obj\Debug\net5.0\NotasEmoedas.genruntimeconfig.cache

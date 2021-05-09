@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NotasEmoedas/1.0.0": {
+        "runtime": {
+          "NotasEmoedas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotasEmoedas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
